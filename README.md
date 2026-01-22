@@ -1,3 +1,4 @@
+🙋 Hi I'm Duc
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/truong-cong-thai-duc-a46b343a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaiduc200427@gmail.com) 
